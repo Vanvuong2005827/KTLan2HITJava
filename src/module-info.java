@@ -1,0 +1,2 @@
+module HITKT2 {
+}
